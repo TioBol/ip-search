@@ -1,0 +1,29 @@
+.shower{
+    position: relative;
+    top: -80px;
+    left: 165px;
+    z-index: 2;
+    width: 1110px;
+    height: 160px;
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 15px;
+    background-color: white;
+}
+
+
+.shower div h4{
+    color: hsl(0, 0%, 59%);
+    font-family: 'Rubik';
+    font-weight: 700;
+    font-size: 0.6em;
+}
+
+.shower div {
+    font-family: 'Rubik';
+    font-size: 1.8em;
+    font-weight: 600;
+}

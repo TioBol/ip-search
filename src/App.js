@@ -1,10 +1,10 @@
 import './App.css';
-import Portada from './componentes/Portada';
+import Principal from './componentes/Principal';
 
 function App() {
   return (
     <>
-        <Portada />
+         <Principal />
     </>
   );
 }
